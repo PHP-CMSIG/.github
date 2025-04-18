@@ -23,7 +23,7 @@ using similar third party packages make each single CMS more stable and secure.
  - [Symfony CMF Routing](https://github.com/symfony-cmf/routing-bundle) (Contao, Sulu)
  - [Imagine](https://github.com/php-imagine/Imagine), [Contao/Imagine-SVG](https://github.com/contao/imagine-svg) (Contao, Sulu)
  - [Toflar/psr6-symfony-http-cache-store](https://github.com/Toflar/psr6-symfony-http-cache-store) (Contao, Sulu)
- - [Flysystem](https://github.com/thephpleague/flysystem) (Contao, Sulu)
+ - [Flysystem](https://github.com/thephpleague/flysystem), [Flysystem Bundle](https://github.com/thephpleague/flysystem-bundle) (Contao, Sulu)
 
 ## What are we working on?
 
